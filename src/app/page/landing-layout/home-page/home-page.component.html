@@ -1,6 +1,14 @@
 <div style="--swiper-navigation-color: var(--theme-color); --swiper-pagination-color: var(--theme-color)"
      class="swiper hero-swiper">
   <div data-swiper-parallax="-23%"></div>
+  <div class="mobile" style="text-align:center;color:rgb(34, 34, 164);float: inline-start;padding: 10px;">
+        <div style="font-size:36px;font-weight:bolder;">
+        Techlmaginia
+        </div>
+        <div style="font-size:20px;font-weight:bolder;">
+        Softwares Pvt. Ltd.
+        </div>
+    </div>
   <div class="swiper-wrapper">
     <div class="swiper-slide" *ngFor="let slide of slides">
       <img class="hero-bg" [src]="slide.background" alt="background"/>
