@@ -1,0 +1,366 @@
+@use 'node_modules/@open-template-hub/card/styles/card/card';
+
+@use '../../../../styles/page/page';
+@use '../../../../styles/util/util';
+@use '../landing-layout.component';
+
+.swiper {
+  width: 100%;
+  max-width: 2000px;
+  height: 700px;
+}
+
+.swiper-slide {
+  @include util.flex-layout-row;
+  @include util.flex-center-center;
+  @include util.margin-x-auto;
+
+  justify-content: space-evenly;
+
+  width: 100%;
+
+  padding: 7vh 100px 50px;
+  position: relative;
+
+  overflow: hidden;
+
+  box-sizing: border-box;
+
+  & .hero-left {
+    font-size: 38px;
+    max-width: 50%;
+    min-width: 450px;
+    padding-bottom: 50px;
+  }
+
+  & .hero-img {
+    max-width: 300px;
+    max-height: 300px;
+    padding-bottom: 100px;
+  }
+
+  & .hero-bg {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: auto;
+    z-index: -1;
+    opacity: 0.1;
+  }
+
+  & .hero-left {
+    @include util.flex-layout-column;
+
+    align-items: flex-start;
+
+    & h2 {
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+      border-bottom: 3px solid var(--theme-color);
+    }
+
+    & h2, & p {
+      color: var(--darker);
+    }
+
+    & p {
+      font-size: 24px;
+      text-align: left;
+    }
+
+    & .slide-button {
+      @include util.flex-layout-row;
+      @include util.flex-center-center;
+
+      cursor: pointer;
+      gap: 6px;
+
+      border-radius: 5px;
+      width: 200px;
+      height: 40px;
+      background-color: var(--shine);
+      border: 2px solid var(--theme-color-lighter-6);
+
+      & p {
+        font-size: 20px;
+        color: var(--theme-color);
+      }
+
+      & i {
+        font-size: 24px;
+        color: var(--theme-color);
+
+        animation-duration: 2s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-name: move-x;
+        animation-timing-function: ease-in-out;
+      }
+    }
+  }
+}
+
+.screenshots-wrapper {
+  @include util.flex-layout-column;
+  @include util.flex-center-center;
+
+  box-sizing: border-box;
+
+  width: 100%;
+
+  padding-left: 3vw;
+  padding-right: 3vw;
+
+  padding-bottom: 100px;
+
+  text-align: center;
+
+  .product-card {
+    & .header {
+      text-align: left;
+      font-size: 20px;
+    }
+
+    & .body {
+      justify-content: flex-start;
+      background-color: transparent;
+      box-shadow: none;
+
+      & app-screenshot-swiper {
+        margin-top: 50px;
+      }
+
+      height: 350px;
+      width: 84vw;
+    }
+  }
+}
+
+.counters {
+  @include util.flex-layout-row;
+  @include util.flex-center-center;
+  @include util.margin-x-auto;
+
+  & .ratio {
+    @include util.flex-layout-row;
+    @include util.flex-center-center;
+    @include util.margin-x-auto;
+  }
+
+  & .counter-wrapper {
+    @include util.flex-layout-column;
+    @include util.flex-center-center;
+
+    text-align: center;
+    width: 100%;
+
+    & .counter {
+      color: var(--theme-color-darker-1);
+      font-weight: 400;
+    }
+
+    & .loader {
+      padding: 16px;
+    }
+
+    & .description {
+      width: auto;
+      margin: 5px 30px 0;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--theme-color-darker-1);
+    }
+  }
+}
+
+.customers-wrapper {
+  @include util.flex-layout-column;
+  @include util.flex-center-center;
+
+  box-sizing: border-box;
+
+  width: 100%;
+
+  padding-left: 3vw;
+  padding-right: 3vw;
+
+  padding-bottom: 100px;
+}
+
+.features-section-wrapper {
+  @include util.flex-layout-column;
+  @include util.flex-center-center;
+
+  box-sizing: border-box;
+
+  width: 100%;
+
+  padding: 50px;
+
+  & .section-header {
+    color: var(--darker);
+    text-align: center;
+  }
+
+  & .section-description {
+    color: var(--lighter);
+    padding: 30px;
+    text-align: center;
+  }
+
+  & .section-content {
+    @include util.flex-layout-row;
+    @include util.flex-center-center;
+
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 4.5vw;
+    margin-top: 50px;
+
+    & app-feature-card {
+      margin-left: 15px;
+      margin-right: 15px;
+      width: 300px;
+    }
+  }
+}
+
+@media only screen and (max-width: 999px) {
+
+  .swiper-slide {
+    width: auto;
+    flex-direction: column;
+    box-sizing: border-box;
+
+    justify-content: flex-start;
+
+    font-size: 25px;
+
+    text-align: center;
+
+    gap: 10px;
+    padding: 0 3vw 3vh;
+    height: auto;
+
+    & .hero-bg {
+      width: auto;
+      height: 100%;
+      min-height: 100%;
+    }
+
+    & .hero-img {
+      height: 250px;
+      padding-bottom: 0;
+      padding-top: 50px;
+    }
+
+    & .hero-left {
+      align-items: center;
+
+      padding-bottom: 50px;
+      min-width: 90vw;
+
+      & h2 {
+        padding: 5px 0;
+        font-size: 30px;
+      }
+
+      & p {
+        text-align: center;
+        font-size: 18px;
+      }
+    }
+  }
+
+  .counters {
+    width: 100%;
+    flex-direction: column;
+    padding: 50px 0;
+
+    & .counter-wrapper {
+      min-height: 120px;
+      padding-top: 10px;
+
+      & .counter {
+        font-size: 28px;
+      }
+
+      & .description {
+        font-size: 18px;
+      }
+    }
+  }
+
+  .features-section-wrapper {
+    & .section-content {
+      @include util.flex-layout-column;
+      @include util.flex-center-center;
+
+      padding: 0 3vw 0 3vw;
+
+      & app-feature-card {
+        margin-top: 20px;
+        margin-left: 0px;
+        width: 94vw;
+      }
+    }
+  }
+
+  app-swiper-wrapper {
+    margin-bottom: 80px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+
+  .cards-wrapper {
+    & app-testimonial-card, img {
+      margin-top: 0;
+    }
+  }
+
+  .counters {
+    box-sizing: border-box;
+    padding: 180px 50px 50px;
+    width: 1000px;
+
+    & .counter-wrapper {
+      & .counter {
+        font-size: 33px;
+      }
+
+      & .description {
+        font-size: 21px;
+      }
+    }
+  }
+
+  app-swiper-wrapper {
+    margin: 80px 0 50px;
+  }
+}
+
+@media (hover: hover) {
+
+  .swiper {
+    & .swiper-wrapper {
+      & .swiper-slide {
+        & .hero-left {
+          & .slide-button {
+            &:hover {
+              box-shadow: 0 0 8px -3px var(--theme-color-blue);
+              border-color: var(--theme-color-blue);
+              transition-property: border-color;
+              transition-duration: 400ms;
+
+              & p, & i {
+                transition-property: color;
+                transition-duration: 400ms;
+                color: var(--theme-color-blue);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

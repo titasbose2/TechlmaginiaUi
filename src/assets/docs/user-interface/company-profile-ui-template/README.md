@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Company Profile UI Template v5
+Open Template Hub - Company Profile UI Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge)](LICENSE)
@@ -15,8 +15,9 @@ Open Template Hub - Company Profile UI Template v5
 [![Release](https://img.shields.io/github/release/open-template-hub/company-profile-ui-template?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/company-profile-ui-template/releases)
 [![Lighthouse](https://img.shields.io/badge/LIGHTHOUSE-report-43b043.svg?style=for-the-badge&logo=lighthouse)](docs/lighthouse)
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_company-profile-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_company-profile-ui-template)
+[![BTC](https://img.shields.io/badge/Donate-BTC-ORANGE?color=F5922F&style=for-the-badge&logo=bitcoin)](https://commerce.coinbase.com/checkout/8313af5f-de48-498d-b2cb-d98819ca7d5e)
 
-Company Profile UI Template is a modern, responsive, and customizable company profiles UI template for your business. It contains reusable components, theme color, and design support along with dark theme support.
+Company Profile UI Template is modern, responsive and customisable company profile ui template for your business. It contains reusable components, theme color and design support along with dark theme support. (generated from [Web UI Template](https://github.com/open-template-hub/web-ui-template))
 
 <h3 align="center">
   For demo click the image below ⬇️
@@ -148,15 +149,15 @@ To be able to generate cookie policy, use **[cookiepolicygenerator](https://www.
 
 <br/>
 
-## Localization
-
-To be able to generate or update localization, use [updateMessages.run.xml](.run/updateMessages.run.xml).
-
-<br/>
-
 ## Outdated
 
 Refer to **[OUTDATED.md](docs/OUTDATED.md)** to see outdated npm packages and update them with your own risk.
+
+<br/>
+
+## Localization
+
+To be able to generate or update localization, use [updateMessages.run.xml](.run/updateMessages.run.xml).
 
 <br/>
 
@@ -193,5 +194,5 @@ Refer to **[CODE_OF_CONDUCT.md](https://github.com/open-template-hub/.github/blo
 
 The source code for this project is released under the [MIT License](LICENSE).
 
-<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2023</b></td></tr></table>
 
+<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2021</b></td></tr></table>
