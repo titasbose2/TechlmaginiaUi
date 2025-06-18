@@ -106,6 +106,24 @@ export const PRODUCT_LINES: ProductLine[] = [
     description: $localize`:@@servicesData.premium.description:Get more things done with our premium solutions`,
     color: ThemeColorSettings.yellow,
     products: [
+       {
+        key: 'Xdil.in',
+        name: 'Xdil.in',
+        description: `India,s No1 local marketing platform`,
+        url: 'https://xdil.in',
+        redirectToUrl: true,
+        logo: './assets/slide/XdilWhiteSquare114x114.png',
+        triable: true
+      },
+       {
+        key: 'hiring-machines',
+        name: 'Hiring Machines',
+        description: `Hire Candidates After Complete Evaluation.`,
+        url: 'https://hiringmachines.com',
+        redirectToUrl: true,
+        logo: './assets/slide/hmlogo.jpeg',
+        triable: true
+      },
       {
         key: 'startup-portal',
         name: 'Startup Portal',

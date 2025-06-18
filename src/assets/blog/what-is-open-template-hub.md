@@ -91,4 +91,4 @@ We have thousands of downloads / usages for our generators, packages, libraries 
 
 Thank you so much for all of your support.
 
-If you have any question about Open Template Hub, please ask without hesitation: [info@opentemplatehub.com](mailto:info@opentemplatehub.com)
+If you have any question about Open Template Hub, please ask without hesitation: [hr@techlmaginia.in](mailto:hr@techlmaginia.in)

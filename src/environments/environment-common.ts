@@ -3,15 +3,15 @@ import { environment } from './environment';
 
 export const environmentCommon: EnvironmentCommonModel = {
   company: {
-    website: 'https://opentemplatehub.com',
-    email: 'info@opentemplatehub.com',
+    website: 'https://techlmaginia.in',
+    email: 'hr@techlmaginia.in',
     social: {
-      twitter: 'opentemplatehub',
-      linkedin: 'open-template-hub',
-      github: 'open-template-hub',
-      productHunt: '@open_template_hub',
-      npm: '@open-template-hub',
-      discord: 'wa9hmmR'
+      twitter: 'techlmaginiasoftwares',
+      linkedin: 'techlmaginiasoftwares',
+      github: 'techlmaginiasoftwares',
+      productHunt: '@techlmaginiasoftwares',
+      npm: '@techlmaginiasoftwares',
+      discord: 'techlmaginiasoftwares'
     }
   },
 

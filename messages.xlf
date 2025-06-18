@@ -1792,7 +1792,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="employees.???.bio" datatype="html">
-        <source>Would you like to join our team? Please feel free to reach us from info@opentemplatehub.com or from jobs
+        <source>Would you like to join our team? Please feel free to reach us from hr@techlmaginia.in or from jobs
           page.
         </source>
         <context-group purpose="location">
@@ -3016,7 +3016,7 @@
       </trans-unit>
       <trans-unit id="testimonials.review.???" datatype="html">
         <source>Would you like to tell us how was your Open Template Hub experience or are you planning to use our
-          products but need some professional help? Please feel free to reach us from info@opentemplatehub.com or from
+          products but need some professional help? Please feel free to reach us from hr@techlmaginia.in or from
           contact us page.
         </source>
         <context-group purpose="location">
@@ -3105,7 +3105,7 @@
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
           Basic usage guidelines can be found below. If you have any questions or want to request approval to use these
           assets, please do not hesitate to contact us or email<x id="START_LINK" ctype="x-a" equiv-text="&lt;a
-            href=&quot;mailto:info@opentemplatehub.com&quot;&gt;"/>info@opentemplatehub.com
+            href=&quot;mailto:hr@techlmaginia.in&quot;&gt;"/>hr@techlmaginia.in
           <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>

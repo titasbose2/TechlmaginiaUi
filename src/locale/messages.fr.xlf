@@ -2138,8 +2138,8 @@
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
           Basic usage guidelines can be found below. If you have any questions or want to request approval to use these
           assets, please do not hesitate to contact us or email<x id="START_LINK" ctype="x-a"
-                                                                  equiv-text="&lt;a             href=&quot;mailto:info@opentemplatehub.com&quot;&gt;"/>
-          info@opentemplatehub.com
+                                                                  equiv-text="&lt;a             href=&quot;mailto:hr@techlmaginia.in&quot;&gt;"/>
+          hr@techlmaginia.in
           <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
@@ -2198,8 +2198,8 @@
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
           Basic usage guidelines can be found below. If you have any questions or want to request approval to use these
           assets, please do not hesitate to contact us or email<x id="START_LINK" ctype="x-a"
-                                                                  equiv-text="&lt;a                                 href=&quot;mailto:info@opentemplatehub.com&quot;&gt;"/>
-          info@opentemplatehub.com
+                                                                  equiv-text="&lt;a                                 href=&quot;mailto:hr@techlmaginia.in&quot;&gt;"/>
+          hr@techlmaginia.in
           <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
@@ -4103,10 +4103,10 @@
         </context-group>
       </trans-unit>
       <trans-unit id="employees.???.bio" datatype="html">
-        <source>Would you like to join our team? Please feel free to reach us from info@opentemplatehub.com or from jobs
+        <source>Would you like to join our team? Please feel free to reach us from hr@techlmaginia.in or from jobs
           page.
         </source>
-        <target>Vous souhaitez rejoindre notre équipe ? N'hésitez pas à nous contacter depuis info@opentemplatehub.com
+        <target>Vous souhaitez rejoindre notre équipe ? N'hésitez pas à nous contacter depuis hr@techlmaginia.in
           ou depuis la page des emplois.
         </target>
         <context-group purpose="location">
@@ -4198,12 +4198,12 @@
       </trans-unit>
       <trans-unit id="testimonials.review.???" datatype="html">
         <source>Would you like to tell us how was your Open Template Hub experience or are you planning to use our
-          products but need some professional help? Please feel free to reach us from info@opentemplatehub.com or from
+          products but need some professional help? Please feel free to reach us from hr@techlmaginia.in or from
           contact us page.
         </source>
         <target>Souhaitez-vous nous dire comment s'est passée votre expérience avec Open Template Hub ou envisagez-vous
           d'utiliser nos produits mais avez-vous besoin d'une aide professionnelle ? N'hésitez pas à nous contacter
-          depuis info@opentemplatehub.com ou depuis la page contactez-nous.
+          depuis hr@techlmaginia.in ou depuis la page contactez-nous.
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/testimonial/testimonial.data.ts</context>
