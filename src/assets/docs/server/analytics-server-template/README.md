@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Analytics Server Template v3
+Techlmaginia Softwares - Analytics Server Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge)](LICENSE)
@@ -97,7 +97,7 @@ You can find list of available http request in the [requests](assets/requests) d
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 

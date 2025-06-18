@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Business Logic Server Template v3
+Techlmaginia Softwares - Business Logic Server Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge)](LICENSE)
@@ -16,7 +16,7 @@ Open Template Hub - Business Logic Server Template v3
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_business-logic-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_business-logic-server-template)
 [![BTC](https://img.shields.io/badge/Donate-BTC-ORANGE?color=F5922F&style=for-the-badge&logo=bitcoin)](https://commerce.coinbase.com/checkout/8313af5f-de48-498d-b2cb-d98819ca7d5e)
 
-Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Open Template Hub products.
+Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Techlmaginia Softwares products.
 
 ## Ways to Begin
 
@@ -98,7 +98,7 @@ You can find list of available http request in the [requests](assets/requests) d
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 

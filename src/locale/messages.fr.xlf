@@ -2,8 +2,8 @@
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="contactUsData.title" datatype="html">
-        <source>With Open Template Hub you can:</source>
-        <target>Avec Open Template Hub, vous pouvez :</target>
+        <source>With Techlmaginia Softwares you can:</source>
+        <target>Avec Techlmaginia Softwares, vous pouvez :</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/contact-us/contact-us.data.ts</context>
           <context context-type="linenumber">6</context>
@@ -2062,8 +2062,8 @@
       </trans-unit>
 
       <trans-unit id="aboutUs.employeeAppHero.text" datatype="html">
-        <source>Team Behind the Open Template Hub</source>
-        <target>L'équipe derrière l'Open Template Hub</target>
+        <source>Team Behind the Techlmaginia Softwares</source>
+        <target>L'équipe derrière l'Techlmaginia Softwares</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/page/landing-layout/about-us-page/about-us-page.component.ts
           </context>
@@ -2094,8 +2094,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="aboutUs.historyOfUsAppHero.othText" datatype="html">
-        <source>History of the Open Template Hub</source>
-        <target>Histoire de l'Open Template Hub</target>
+        <source>History of the Techlmaginia Softwares</source>
+        <target>Histoire de l'Techlmaginia Softwares</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/page/landing-layout/about-us-page/about-us-page.component.ts
           </context>
@@ -2119,18 +2119,18 @@
       <trans-unit id="brandingPage.policyContent" datatype="html">
         <source>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          All of Open Template Hub’s brand features including<x id="START_TAG_STRONG" ctype="x-strong"
-                                                                equiv-text="&lt;strong&gt;"/>Open Template Hub<x
+          All of Techlmaginia Softwares’s brand features including<x id="START_TAG_STRONG" ctype="x-strong"
+                                                                equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares<x
             id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>,<x id="START_TAG_STRONG"
                                                                                      ctype="x-strong"
                                                                                      equiv-text="&lt;strong&gt;"/>OTH
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          and the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          and the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo are protected by applicable trademark, copyright and other intellectual property laws. Any use of a<x
-            id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub trademark
+            id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares trademark
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          is subject to the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          is subject to the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           Trademark Standards
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           for Use.
@@ -2149,7 +2149,7 @@
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          - Do not rotate the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          - Do not rotate the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
@@ -2160,13 +2160,13 @@
           logo.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          - Do not distort the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          - Do not distort the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo (be sure to scale proportionately).
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
           - Allow an appropriate amount of white space around the<x id="START_TAG_STRONG" ctype="x-strong"
-                                                                    equiv-text="&lt;strong&gt;"/>Open Template Hub<x
+                                                                    equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares<x
             id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>logo, at least as much as the x-height
           of the logo (suggested).
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
@@ -2174,23 +2174,23 @@
           - Preferred minimum size for the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open
           Template Hub
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          logo is 100px wide. For smaller sizes, you must seek permission from the Open Template Hub team.
+          logo is 100px wide. For smaller sizes, you must seek permission from the Techlmaginia Softwares team.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
         </source>
         <target>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          All of Open Template Hub’s brand features including<x id="START_TAG_STRONG" ctype="x-strong"
-                                                                equiv-text="&lt;strong&gt;"/>Open Template Hub<x
+          All of Techlmaginia Softwares’s brand features including<x id="START_TAG_STRONG" ctype="x-strong"
+                                                                equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares<x
             id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>,<x id="START_TAG_STRONG"
                                                                                      ctype="x-strong"
                                                                                      equiv-text="&lt;strong&gt;"/>OTH
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          and the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          and the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo are protected by applicable trademark, copyright and other intellectual property laws. Any use of a<x
-            id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub trademark
+            id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares trademark
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          is subject to the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          is subject to the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           Trademark Standards
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           for Use.
@@ -2209,7 +2209,7 @@
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          - Do not rotate the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          - Do not rotate the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
@@ -2220,13 +2220,13 @@
           logo.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
-          - Do not distort the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open Template Hub
+          - Do not distort the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
           logo (be sure to scale proportionately).
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
           <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>
           - Allow an appropriate amount of white space around the<x id="START_TAG_STRONG" ctype="x-strong"
-                                                                    equiv-text="&lt;strong&gt;"/>Open Template Hub<x
+                                                                    equiv-text="&lt;strong&gt;"/>Techlmaginia Softwares<x
             id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>logo, at least as much as the x-height
           of the logo (suggested).
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
@@ -2234,7 +2234,7 @@
           - Preferred minimum size for the<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Open
           Template Hub
           <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-          logo is 100px wide. For smaller sizes, you must seek permission from the Open Template Hub team.
+          logo is 100px wide. For smaller sizes, you must seek permission from the Techlmaginia Softwares team.
           <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/>
         </target>
         <context-group purpose="location">
@@ -3243,11 +3243,11 @@
       <trans-unit id="productLinesData.businessLogicServerTemplate.description" datatype="html">
         <source>Business Logic Server Template is a generic open source server that encodes the real-world business
           rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate
-          code. It works best with other Open Template Hub products.
+          code. It works best with other Techlmaginia Softwares products.
         </source>
         <target>Le modèle de serveur de logique métier est un serveur open source générique qui code les règles métier
           du monde réel qui déterminent comment les données peuvent être créées, stockées et modifiées. Cela vous évite
-          de réécrire du code passe-partout. Cela fonctionne mieux avec d'autres produits Open Template Hub.
+          de réécrire du code passe-partout. Cela fonctionne mieux avec d'autres produits Techlmaginia Softwares.
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/product/product.data.ts</context>
@@ -3327,16 +3327,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="generators.serverGenerator.description" datatype="html">
-        <source>Command line interface generator of the servers at Open Template Hub</source>
-        <target>Générateur d'interface de ligne de commande des serveurs d'Open Template Hub</target>
+        <source>Command line interface generator of the servers at Techlmaginia Softwares</source>
+        <target>Générateur d'interface de ligne de commande des serveurs d'Techlmaginia Softwares</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/product/product.data.ts</context>
           <context context-type="linenumber">344</context>
         </context-group>
       </trans-unit>
       <trans-unit id="generators.appGenerator.description" datatype="html">
-        <source>Command line interface generator of the user interfaces at Open Template Hub</source>
-        <target>Générateur d'interface de ligne de commande des interfaces utilisateur à Open Template Hub</target>
+        <source>Command line interface generator of the user interfaces at Techlmaginia Softwares</source>
+        <target>Générateur d'interface de ligne de commande des interfaces utilisateur à Techlmaginia Softwares</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/product/product.data.ts</context>
           <context context-type="linenumber">389</context>
@@ -3344,11 +3344,11 @@
       </trans-unit>
       <trans-unit id="premium.orchestrationServerTemplate.description" datatype="html">
         <source>Orchestration Server Template is a middleware server that has simple yet powerful design to connect your
-          business with all Open Template Hub servers (like Auth Server, Payment Server, File Storage Server or Mail
+          business with all Techlmaginia Softwares servers (like Auth Server, Payment Server, File Storage Server or Mail
           Server). It also has generic design to integrate any other servers.
         </source>
         <target>Orchestration Server Template est un serveur middleware doté d'une conception simple mais puissante pour
-          connecter votre entreprise à tous les serveurs Open Template Hub (comme le serveur d'authentification, le
+          connecter votre entreprise à tous les serveurs Techlmaginia Softwares (comme le serveur d'authentification, le
           serveur de paiement, le serveur de stockage de fichiers ou le serveur de messagerie). Il a également une
           conception générique pour intégrer d'autres serveurs.
         </target>
@@ -3374,8 +3374,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="premium.orchestrationServerTemplate.feature.1.detail.2" datatype="html">
-        <source>Works seamlessly with Open Template Hub Servers.</source>
-        <target>Fonctionne de manière transparente avec les serveurs Open Template Hub.</target>
+        <source>Works seamlessly with Techlmaginia Softwares Servers.</source>
+        <target>Fonctionne de manière transparente avec les serveurs Techlmaginia Softwares.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/product/product.data.ts</context>
           <context context-type="linenumber">451</context>
@@ -3715,10 +3715,10 @@
         </context-group>
       </trans-unit>
       <trans-unit id="homePage.customersTitle.2" datatype="html">
-        <source>Thousands of companies in over 50 countries use Open Template Hub to start, run, and scale their
+        <source>Thousands of companies in over 50 countries use Techlmaginia Softwares to start, run, and scale their
           businesses.
         </source>
-        <target>Des milliers d'entreprises dans plus de 50 pays utilisent Open Template Hub pour démarrer, gérer et
+        <target>Des milliers d'entreprises dans plus de 50 pays utilisent Techlmaginia Softwares pour démarrer, gérer et
           développer leurs activités.
         </target>
         <context-group purpose="location">
@@ -3727,7 +3727,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="homePage.whyUsTitle.1" datatype="html">
-        <source>Why Open Template Hub?</source>
+        <source>Why Techlmaginia Softwares?</source>
         <target>Pourquoi ouvrir Template Hub ?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/page/landing-layout/home-page/home-page.component.ts</context>
@@ -3795,8 +3795,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="partnersPage.partnersTitle.2" datatype="html">
-        <source>Create and run your online business with Open Template Hub and our partners.</source>
-        <target>Créez et gérez votre entreprise en ligne avec Open Template Hub et nos partenaires.</target>
+        <source>Create and run your online business with Techlmaginia Softwares and our partners.</source>
+        <target>Créez et gérez votre entreprise en ligne avec Techlmaginia Softwares et nos partenaires.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/page/landing-layout/partners-page/partners-page.component.ts
           </context>
@@ -4032,11 +4032,11 @@
       </trans-unit>
       <trans-unit id="featuresData.compactStorage.description" datatype="html">
         <source>Store your data efficiently and do not waste your time on your data architecture and performance
-          analysis. Open Template Hub provides you efficient storage, orients and keeps your data in NOSQL and RDBMS,
+          analysis. Techlmaginia Softwares provides you efficient storage, orients and keeps your data in NOSQL and RDBMS,
           handles connection pools and management.
         </source>
         <target>Stockez vos données efficacement et ne perdez pas votre temps sur votre architecture de données et
-          l'analyse des performances. Open Template Hub vous offre un stockage efficace, oriente et conserve vos données
+          l'analyse des performances. Techlmaginia Softwares vous offre un stockage efficace, oriente et conserve vos données
           dans NOSQL et RDBMS, gère les pools de connexions et la gestion.
         </target>
         <context-group purpose="location">
@@ -4076,12 +4076,12 @@
         <source>Furkan is an experienced full-stack developer who has worked on various projects, including online
           payment solutions and fraud detection areas, in a well-known airline company. He's co-founded a startup to
           discover talents from the open-source community. After one year, Furkan successfully exited from his startup
-          and then co-founded Open Template Hub.
+          and then co-founded Techlmaginia Softwares.
         </source>
         <target>Furkan est un développeur full-stack expérimenté qui a travaillé sur divers projets, y compris des
           solutions de paiement en ligne et des domaines de détection de fraude, dans une compagnie aérienne bien
           connue. Il a co-fondé une startup pour découvrir les talents de la communauté open source. Après un an, Furkan
-          a réussi à sortir de sa startup et a ensuite co-fondé Open Template Hub.
+          a réussi à sortir de sa startup et a ensuite co-fondé Techlmaginia Softwares.
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/employee/employee.data.ts</context>
@@ -4091,11 +4091,11 @@
       <trans-unit id="employees.fatih.bio" datatype="html">
         <source>Fatih is a young professional with wide-ranging experience in software design and technology. He worked
           several years on Finance and Telecom business areas. He is now a Founder and CEO at Remoklify. He also
-          co-founded Open Template Hub.
+          co-founded Techlmaginia Softwares.
         </source>
         <target>Fatih est un jeune professionnel possédant une vaste expérience dans la conception et la technologie de
           logiciels. Il a travaillé plusieurs années sur les métiers de la Finance et des Télécoms. Il est maintenant
-          fondateur et PDG de Remoklify. Il a également co-fondé Open Template Hub.
+          fondateur et PDG de Remoklify. Il a également co-fondé Techlmaginia Softwares.
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/employee/employee.data.ts</context>
@@ -4115,11 +4115,11 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.adamNolan" datatype="html">
-        <source>I can say, without a doubt, that Open Template Hub's products scale quickly and provide the best
+        <source>I can say, without a doubt, that Techlmaginia Softwares's products scale quickly and provide the best
           performance in the market. The best part is that we don't have to worry about any licensing fees at all... I
           highly recommend this affordable and reliable products!
         </source>
-        <target>Je peux dire, sans aucun doute, que les produits d'Open Template Hub évoluent rapidement et offrent les
+        <target>Je peux dire, sans aucun doute, que les produits d'Techlmaginia Softwares évoluent rapidement et offrent les
           meilleures performances du marché. La meilleure partie est que nous n'avons pas du tout à nous soucier des
           frais de licence... Je recommande fortement ces produits abordables et fiables !
         </target>
@@ -4129,11 +4129,11 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.stephanieDoe" datatype="html">
-        <source>Working with the team at Open Template Hub has been a very satisfying experience. The team was
+        <source>Working with the team at Techlmaginia Softwares has been a very satisfying experience. The team was
           communicative and supportive throughout the project, which made for a pleasant working environment. They were
           able to complete my project in an expert and timely manner.
         </source>
-        <target>Travailler avec l'équipe d'Open Template Hub a été une expérience très satisfaisante. L'équipe a été
+        <target>Travailler avec l'équipe d'Techlmaginia Softwares a été une expérience très satisfaisante. L'équipe a été
           communicative et solidaire tout au long du projet, ce qui a créé un environnement de travail agréable. Ils ont
           pu mener à bien mon projet de manière experte et dans les délais.
         </target>
@@ -4144,11 +4144,11 @@
       </trans-unit>
       <trans-unit id="testimonials.review.jackAvery" datatype="html">
         <source>I've been researching for days about microserver templates and didn't really find much. But then I found
-          Open Template Hub... This is an excellent way to save money and time for startups or small companies who don't
+          Techlmaginia Softwares... This is an excellent way to save money and time for startups or small companies who don't
           have the means to pay hefty prices for licenses. Thank you so much.
         </source>
         <target>J'ai fait des recherches pendant des jours sur les modèles de microserveur et je n'ai pas vraiment
-          trouvé grand-chose. Mais ensuite j'ai trouvé Open Template Hub... C'est un excellent moyen d'économiser de
+          trouvé grand-chose. Mais ensuite j'ai trouvé Techlmaginia Softwares... C'est un excellent moyen d'économiser de
           l'argent et du temps pour les startups ou les petites entreprises qui n'ont pas les moyens de payer le prix
           fort pour les licences. Merci beaucoup.
         </target>
@@ -4158,10 +4158,10 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.claudiaGoodwin" datatype="html">
-        <source>As a startup, time is of the essence for us. That's why Open Template Hub has been so helpful for us. It
+        <source>As a startup, time is of the essence for us. That's why Techlmaginia Softwares has been so helpful for us. It
           has saved us hours of time when it comes to creating the perfect website for our company.
         </source>
-        <target>As a startup, time is of the essence for us. That's why Open Template Hub has been so helpful for us. It
+        <target>As a startup, time is of the essence for us. That's why Techlmaginia Softwares has been so helpful for us. It
           has saved us hours of time when it comes to creating the perfect website for our company.
         </target>
         <context-group purpose="location">
@@ -4170,11 +4170,11 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.leeRees" datatype="html">
-        <source>Open Template Hub's Orchestration Server was easy to set up and integrate with our existing servers. I
+        <source>Techlmaginia Softwares's Orchestration Server was easy to set up and integrate with our existing servers. I
           liked how the system automatically synced over all of the latest updates, it made managing our company's
           server so much easier. The customer service is also top-notch!
         </source>
-        <target>Le serveur d'orchestration d'Open Template Hub était facile à configurer et à intégrer à nos serveurs
+        <target>Le serveur d'orchestration d'Techlmaginia Softwares était facile à configurer et à intégrer à nos serveurs
           existants. J'ai aimé la façon dont le système se synchronisait automatiquement avec toutes les dernières mises
           à jour, cela facilitait grandement la gestion du serveur de notre entreprise. Le service client est également
           au top !
@@ -4185,10 +4185,10 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.caseyCarlson" datatype="html">
-        <source>I'm a big fan of Open Template Hub. The process was really easy, the team is efficient, and the payment
+        <source>I'm a big fan of Techlmaginia Softwares. The process was really easy, the team is efficient, and the payment
           service is really accurate. I would recommend this to any business owner.
         </source>
-        <target>Je suis un grand fan d'Open Template Hub. Le processus était vraiment simple, l'équipe est efficace et
+        <target>Je suis un grand fan d'Techlmaginia Softwares. Le processus était vraiment simple, l'équipe est efficace et
           le service de paiement est vraiment précis. Je le recommanderais à tout propriétaire d'entreprise.
         </target>
         <context-group purpose="location">
@@ -4197,11 +4197,11 @@
         </context-group>
       </trans-unit>
       <trans-unit id="testimonials.review.???" datatype="html">
-        <source>Would you like to tell us how was your Open Template Hub experience or are you planning to use our
+        <source>Would you like to tell us how was your Techlmaginia Softwares experience or are you planning to use our
           products but need some professional help? Please feel free to reach us from hr@techlmaginia.in or from
           contact us page.
         </source>
-        <target>Souhaitez-vous nous dire comment s'est passée votre expérience avec Open Template Hub ou envisagez-vous
+        <target>Souhaitez-vous nous dire comment s'est passée votre expérience avec Techlmaginia Softwares ou envisagez-vous
           d'utiliser nos produits mais avez-vous besoin d'une aide professionnelle ? N'hésitez pas à nous contacter
           depuis hr@techlmaginia.in ou depuis la page contactez-nous.
         </target>
@@ -4314,12 +4314,12 @@
       </trans-unit>
       <trans-unit id="employees.mert.bio" datatype="html">
         <source>Mert is a new grad software engineer who has been experienced various technologies in his bachelor
-          years. He worked on e-commercial and banking areas. Now, he is a full-stack developer at Open Template Hub and
+          years. He worked on e-commercial and banking areas. Now, he is a full-stack developer at Techlmaginia Softwares and
           also working on native iOS applications.
         </source>
         <target>Mert est un nouvel ingénieur logiciel diplômé qui a expérimenté diverses technologies au cours de ses
           années de licence. Il a travaillé sur les domaines du commerce électronique et de la banque. Aujourd'hui, il
-          est développeur full-stack chez Open Template Hub et travaille également sur des applications iOS natives.
+          est développeur full-stack chez Techlmaginia Softwares et travaille également sur des applications iOS natives.
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/employee/employee.data.ts</context>

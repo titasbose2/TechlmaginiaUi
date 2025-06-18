@@ -49,7 +49,7 @@ export class AboutUsPageComponent {
   ];
   historyOfUsAppHeroContents = [
     {
-      text: $localize`:@@aboutUs.historyOfUsAppHero.othText:History of the Open Template Hub`,
+      text: $localize`:@@aboutUs.historyOfUsAppHero.othText:History of the Techlmaginia Softwares`,
       level: 2,
     },
     {

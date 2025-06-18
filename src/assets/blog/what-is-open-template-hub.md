@@ -1,15 +1,15 @@
-## What is Open Template Hub?
+## What is Techlmaginia Softwares?
 
 ---
 
-Open Template Hub is an Open Source First Organization that aims minimizing the effort while building a new software business.
+Techlmaginia Softwares is an Open Source First Organization that aims minimizing the effort while building a new software business.
 
-### What does Open Template Hub provides to community?
+### What does Techlmaginia Softwares provides to community?
 
-We, as Open Template Hub contributors, keep developing new functionalities and capabilities every week. You can create your microservices or create your mobile and web applications which are integrated with those microservices, that means you can create your own business ground up through Open Template Hub extremely fast.
+We, as Techlmaginia Softwares contributors, keep developing new functionalities and capabilities every week. You can create your microservices or create your mobile and web applications which are integrated with those microservices, that means you can create your own business ground up through Techlmaginia Softwares extremely fast.
 
 Let's assume you have a new software business idea. Once you start implementation, you will need several
-common capabilities like authentication, payment, file storage, analytics, business logic and in the end, you will need a web and mobile applications which are integrated with those capabilities, each and every time you have a new idea. Open Template Hub gives you that power to create and make them alive just in a couple of minutes!
+common capabilities like authentication, payment, file storage, analytics, business logic and in the end, you will need a web and mobile applications which are integrated with those capabilities, each and every time you have a new idea. Techlmaginia Softwares gives you that power to create and make them alive just in a couple of minutes!
 
 ### You can create your microservices using Server Generator
 
@@ -51,7 +51,7 @@ Analytics Server Template is a generic open source analytics server that has sim
 
 ### Business Logic Server
 
-Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Open Template Hub products.
+Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Techlmaginia Softwares products.
 
 You can easily generate these servers, and deploy wherever you want; Heroku, GCP, Azure, AWS and so on. If you prefer our paid plans you can also have prepared GitHub Actions for many CI/CD ops once you deploy your repository to GitHub, Postman test suites and attached to automated runs on GitHub Actions as well, stress tests and a lot of DevOps stuff are covered in these templates.
 
@@ -91,4 +91,4 @@ We have thousands of downloads / usages for our generators, packages, libraries 
 
 Thank you so much for all of your support.
 
-If you have any question about Open Template Hub, please ask without hesitation: [hr@techlmaginia.in](mailto:hr@techlmaginia.in)
+If you have any question about Techlmaginia Softwares, please ask without hesitation: [hr@techlmaginia.in](mailto:hr@techlmaginia.in)

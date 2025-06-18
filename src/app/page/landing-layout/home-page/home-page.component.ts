@@ -67,11 +67,11 @@ export class HomePageComponent implements AfterViewInit {
 
   customersTitle = [
     { text: $localize`:@@homePage.customersTitle.1:From startups to the enterprise companies`, level: 1 },
-    { text: $localize`:@@homePage.customersTitle.2:Thousands of companies in over 50 countries use Open Template Hub to start, run, and scale their businesses.` }
+    { text: $localize`:@@homePage.customersTitle.2:Thousands of companies in over 50 countries use Techlmaginia Softwares to start, run, and scale their businesses.` }
   ];
 
   whyUsTitle = [
-    { text: $localize`:@@homePage.whyUsTitle.1:Why Open Template Hub?`, level: 1 },
+    { text: $localize`:@@homePage.whyUsTitle.1:Why Techlmaginia Softwares?`, level: 1 },
     { text: $localize`:@@homePage.whyUsTitle.2:Just focus on your business and leave us all others` }
   ];
 

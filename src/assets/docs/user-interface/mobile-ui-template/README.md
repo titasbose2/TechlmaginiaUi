@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Mobile UI Template v3
+Techlmaginia Softwares - Mobile UI Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge)](LICENSE)
@@ -149,7 +149,7 @@ Check project's current **nodejs** and **npm** version from **[package.json](pac
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 

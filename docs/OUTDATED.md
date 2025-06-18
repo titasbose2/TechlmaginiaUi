@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-Open Template Hub - Company Profile UI Template v5
+Techlmaginia Softwares - Company Profile UI Template v5
   <br/>
 (outdated packages)
 </h1>
@@ -44,5 +44,5 @@ Following packages are not updated in the develop branch yet. So, if you want to
 | typescript | 4.9.5 | 4.9.5 | 5.8.3 | node_modules/typescript |
 | zone.js | 0.12.0 | 0.12.0 | 0.15.1 | node_modules/zone.js |
 
-<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2023</b></td></tr></table>
+<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Techlmaginia Softwares © 2023</b></td></tr></table>
 

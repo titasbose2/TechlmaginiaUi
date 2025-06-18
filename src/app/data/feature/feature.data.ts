@@ -8,7 +8,7 @@ export const FEATURES: Feature[] = [
   },
   {
     title: $localize`:@@featureData.compactStorage.title:Compact Storage`,
-    description: $localize`:@@featuresData.compactStorage.description:Store your data efficiently and do not waste your time on your data architecture and performance analysis. Open Template Hub provides you efficient storage, orients and keeps your data in NOSQL and RDBMS, handles connection pools and management in an effective way.`,
+    description: $localize`:@@featuresData.compactStorage.description:Store your data efficiently and do not waste your time on your data architecture and performance analysis. Techlmaginia Softwares provides you efficient storage, orients and keeps your data in NOSQL and RDBMS, handles connection pools and management in an effective way.`,
     icon: 'fas fa-database',
   },
   {

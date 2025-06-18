@@ -136,7 +136,7 @@ export const PRODUCT_LINES: ProductLine[] = [
       {
         key: 'orchestration-server-template',
         name: 'Orchestration Server',
-        description: $localize`:@@premium.orchestrationServerTemplate.description:Orchestration Server Template is a middleware server that has simple yet powerful design to connect your business with all Open Template Hub servers (like Auth Server, Payment Server, File Storage Server or Mail Server). It also has generic design to integrate any other servers.`,
+        description: $localize`:@@premium.orchestrationServerTemplate.description:Orchestration Server Template is a middleware server that has simple yet powerful design to connect your business with all Techlmaginia Softwares servers (like Auth Server, Payment Server, File Storage Server or Mail Server). It also has generic design to integrate any other servers.`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github,
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/server/orchestration-server-logo.min.png',
         color: ThemeColorSettings.yellow,
@@ -150,7 +150,7 @@ export const PRODUCT_LINES: ProductLine[] = [
             details: [
               {
                 name: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.1:Integrated with OTH Servers`,
-                description: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.2:Works seamlessly with Open Template Hub Servers.`,
+                description: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.2:Works seamlessly with Techlmaginia Softwares Servers.`,
               },
               PROFESSIONAL_HELP_FEATURE,
               CUSTOMISED_SOLUTIONS_FEATURE,
@@ -244,7 +244,7 @@ export const PRODUCT_LINES: ProductLine[] = [
             details: [
               {
                 name: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.1:Integrated with OTH Servers`,
-                description: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.2:Works seamlessly with Open Template Hub Servers.`,
+                description: $localize`:@@premium.orchestrationServerTemplate.feature.1.detail.2:Works seamlessly with Techlmaginia Softwares Servers.`,
               },
               PROFESSIONAL_HELP_FEATURE,
               CUSTOMISED_SOLUTIONS_FEATURE,
@@ -432,7 +432,7 @@ export const PRODUCT_LINES: ProductLine[] = [
       {
         key: 'business-logic-server-template',
         name: 'Business Logic Server',
-        description: $localize`:@@productLinesData.businessLogicServerTemplate.description:Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Open Template Hub products.`,
+        description: $localize`:@@productLinesData.businessLogicServerTemplate.description:Business Logic Server Template is a generic open source server that encodes the real-world business rules that determine how data can be created, stored, and changed. It saves you from rewriting boilerplate code. It works best with other Techlmaginia Softwares products.`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'business-logic-server-template',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/server/business-logic-server-logo.min.png',
         demonstrationImg: {
@@ -639,7 +639,7 @@ export const PRODUCT_LINES: ProductLine[] = [
       {
         key: 'server-generator',
         name: 'Server Generator',
-        description: $localize`:@@generators.serverGenerator.description:Command line interface generator of the servers at Open Template Hub`,
+        description: $localize`:@@generators.serverGenerator.description:Command line interface generator of the servers at Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'server-generator',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'server-generator',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/generator/server-generator-logo.min.png',
@@ -695,7 +695,7 @@ export const PRODUCT_LINES: ProductLine[] = [
         key: 'app-generator',
         name: 'UI Generator',
         description:
-            $localize`:@@generators.appGenerator.description:Command line interface generator of the user interfaces at Open Template Hub`,
+            $localize`:@@generators.appGenerator.description:Command line interface generator of the user interfaces at Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'app-generator',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'app-generator',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/generator/server-generator-logo.min.png',
@@ -755,12 +755,12 @@ export const LIBRARIES: ProductLine[] = [
   {
     key: 'user-interface',
     name: 'User Interface Libraries',
-    description: `Libraries for UI Templates on Open Template Hub`,
+    description: `Libraries for UI Templates on Techlmaginia Softwares`,
     products: [
       {
         key: 'animated-code-editor',
         name: 'Animated Code Editor',
-        description: `This library contains animated code editor ui component for UI Templates on Open Template Hub`,
+        description: `This library contains animated code editor ui component for UI Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'animated-code-editor',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'animated-code-editor',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/generator/server-generator-logo.min.png',
@@ -775,7 +775,7 @@ export const LIBRARIES: ProductLine[] = [
       {
         key: 'led',
         name: 'Led',
-        description: `This library contains led ui component for UI Templates on Open Template Hub`,
+        description: `This library contains led ui component for UI Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'led',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'led',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
@@ -786,7 +786,7 @@ export const LIBRARIES: ProductLine[] = [
       {
         key: 'card',
         name: 'Card',
-        description: `This library contains card ui component for UI Templates on Open Template Hub`,
+        description: `This library contains card ui component for UI Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'card',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'card',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
@@ -797,7 +797,7 @@ export const LIBRARIES: ProductLine[] = [
       {
         key: 'button',
         name: 'Button',
-        description: `This library contains button ui component for UI Templates on Open Template Hub`,
+        description: `This library contains button ui component for UI Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'button',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'button',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
@@ -808,7 +808,7 @@ export const LIBRARIES: ProductLine[] = [
       {
         key: 'hero',
         name: 'Hero',
-        description: `This library contains hero ui component for UI Templates on Open Template Hub`,
+        description: `This library contains hero ui component for UI Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'hero',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'hero',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
@@ -832,7 +832,7 @@ export const LIBRARIES: ProductLine[] = [
   {
     key: 'server',
     name: 'Other Libraries',
-    description: `Libraries for Server Templates on Open Template Hub`,
+    description: `Libraries for Server Templates on Techlmaginia Softwares`,
     products: [
       {
         key: 'swagger-decorators',
@@ -848,7 +848,7 @@ export const LIBRARIES: ProductLine[] = [
       {
         key: 'common',
         name: 'Common',
-        description: `This library contains common functionalities for Server Templates on Open Template Hub`,
+        description: `This library contains common functionalities for Server Templates on Techlmaginia Softwares`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'common',
         urlAlter: environmentCommon.website.npm.url + '/package/' + environmentCommon.company.social.npm + '/' + 'common',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
@@ -864,12 +864,12 @@ export const PLUGINS: ProductLine[] = [
   {
     key: 'plugins',
     name: 'Plugins',
-    description: `Plugins made by Open Template Hub`,
+    description: `Plugins made by Techlmaginia Softwares`,
     products: [
       {
         key: 'oth-intellij-theme-plugin',
         name: 'IntelliJ Theme',
-        description: `OTH themes for JetBrains. Dark and light themes using Open Template Hub's color palette.`,
+        description: `OTH themes for JetBrains. Dark and light themes using Techlmaginia Softwares's color palette.`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'oth-intellij-theme-plugin',
         urlAlter: 'https://plugins.jetbrains.com/plugin/18932-oth-theme',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/logo/intellij.png',
@@ -879,7 +879,7 @@ export const PLUGINS: ProductLine[] = [
       {
         key: 'oth-vscode-theme-plugin',
         name: 'VSCode Theme',
-        description: `OTH themes for VSCode. Dark and light themes using Open Template Hub's color palette.`,
+        description: `OTH themes for VSCode. Dark and light themes using Techlmaginia Softwares's color palette.`,
         url: environmentCommon.website.github.url + '/' + environmentCommon.company.social.github + '/' + 'oth-vscode-theme-plugin',
         urlAlter: 'https://marketplace.visualstudio.com/items?itemName=OpenTemplateHub.oth-theme',
         logo: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/logo/vscode.png',

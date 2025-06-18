@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Company Profile UI Template v3
+Techlmaginia Softwares - Company Profile UI Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge)](LICENSE)
@@ -180,7 +180,7 @@ To be able to generate or update localization, use [updateMessages.run.xml](.run
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 
@@ -195,4 +195,4 @@ Refer to **[CODE_OF_CONDUCT.md](https://github.com/open-template-hub/.github/blo
 The source code for this project is released under the [MIT License](LICENSE).
 
 
-<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2021</b></td></tr></table>
+<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Techlmaginia Softwares © 2021</b></td></tr></table>

@@ -4,7 +4,7 @@ export const BRAND = {
   establishDate: '2020-01-01',
   heroImage: {
     src: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/oth-packages.min.png',
-    description: 'Open Template Hub Hero Image'
+    description: 'Techlmaginia Softwares Hero Image'
   },
   logo: {
     main: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',

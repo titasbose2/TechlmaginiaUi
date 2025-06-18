@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Web UI Template v3
+Techlmaginia Softwares - Web UI Template v3
 </h1>
 
 [![License](https://img.shields.io/github/license/open-template-hub/web-ui-template?color=2F7488&style=for-the-badge)](LICENSE)
@@ -144,7 +144,7 @@ Check project's current **nodejs** and **npm** version from **[package.json](pac
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 

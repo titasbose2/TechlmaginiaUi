@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - UI Generator v3
+Techlmaginia Softwares - UI Generator v3
 </h1>
 
 [![Version](https://img.shields.io/npm/v/@open-template-hub/app-generator?color=CB3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@open-template-hub/app-generator)
@@ -18,7 +18,7 @@ Open Template Hub - UI Generator v3
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_app-generator?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_app-generator)
 [![BTC](https://img.shields.io/badge/Donate-BTC-ORANGE?color=F5922F&style=for-the-badge&logo=bitcoin)](https://commerce.coinbase.com/checkout/8313af5f-de48-498d-b2cb-d98819ca7d5e)
 
-Command line interface generator of the user interfaces at [Open Template Hub](https://github.com/open-template-hub)
+Command line interface generator of the user interfaces at [Techlmaginia Softwares](https://github.com/open-template-hub)
 
 Available UI types are:
 
@@ -70,7 +70,7 @@ No sponsors yet! **Will you be the first?**
 
 ## Contributing
 
-Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Open Template Hub.
+Refer to **[CONTRIBUTING.md](https://github.com/open-template-hub/.github/blob/master/docs/CONTRIBUTING.md)** to see how to contribute to Techlmaginia Softwares.
 
 <br/>
 
